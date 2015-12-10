@@ -1,3 +1,7 @@
+# DEPRECATED
+
+This module has been deprecated and is no longer maintained.
+
 ## BrowserStack Test
 
 Run your Mocha or Jasmine tests automatically on BrowserStack virtual machines.
